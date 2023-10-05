@@ -12,10 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\eShopSolution.Application\CuaHangSach.Application.csproj" />
-    <ProjectReference Include="..\eShopSolution.Data\CuaHangSach.Data.csproj" />
-    <ProjectReference Include="..\eShopSolution.Utilities\CuaHangSach.Utilities.csproj" />
-    <ProjectReference Include="..\eShopSolution.ViewModels\CuaHangSach.ViewModels.csproj" />
+    <ProjectReference Include="..\eShopSolution.Application\eShopSolution.Application.csproj" />
+    <ProjectReference Include="..\eShopSolution.Data\eShopSolution.Data.csproj" />
+    <ProjectReference Include="..\eShopSolution.Utilities\eShopSolution.Utilities.csproj" />
+    <ProjectReference Include="..\eShopSolution.ViewModels\eShopSolution.ViewModels.csproj" />
   </ItemGroup>
 
   <ItemGroup>
